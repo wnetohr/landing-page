@@ -66,6 +66,30 @@
     flex-direction: row;
     gap: 5rem;
 }
+
+.project1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.project2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.project3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.project1 img{
+    width: 20vw;
+    
+}
+.project3 img{
+    width: 20vw;
+    
+}
 .project-list div a{
     color: black;
 }

@@ -277,6 +277,10 @@
     .contact-list{
         flex-direction: column;
     }
+    .contact-list ul li a{
+        font-size: 1rem;
+        color: black;
+    }
     .about{
         padding: 110px 5%;
     }

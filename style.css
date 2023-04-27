@@ -219,11 +219,14 @@
         height: 100%;
         background: var(--main);
         flex-direction: column;
-        transition: 0.2s;
+        transition: 0.4s;
         gap: -10px;
     }
     .menu-navi.ativo{
         right: 0;
+    }
+    .menu-navi.desativo{
+        right:-100;
     }
     .menu-navi li a:hover{
         color: white;
